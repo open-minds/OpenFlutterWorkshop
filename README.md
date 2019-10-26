@@ -1,5 +1,7 @@
 A  Flutter application: BMI Calculator.
 
-This project is the full open flutter workshop.
+<img src="Screenshot.png" width="250">
+
+This project is the full code for the OpenFlutterWorkshop.
 # Organized by TeamOpenMinds
 
